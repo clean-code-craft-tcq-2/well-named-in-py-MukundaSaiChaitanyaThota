@@ -1,4 +1,4 @@
-from pair_color_transition import *
+from color_test import *
 from reference_manual import *
 
 if __name__ == '__main__':
